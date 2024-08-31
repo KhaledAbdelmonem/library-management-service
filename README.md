@@ -12,7 +12,9 @@ Register a patron with its name, address and email
 
 Register a patron (to borrow a book)
 
-Borrow a book from date/time, to date/time, book id, patron id
+Borrow a book from book id, patron id
+
+Return Book from book id, patron id, return date
 
 ## Running
 
