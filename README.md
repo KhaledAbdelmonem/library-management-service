@@ -18,7 +18,7 @@ Return Book from book id, patron id, return date
 
 ## Running
 
-1. Java 8 and Maven 4 should be installed.
+1. Java 17 and Maven 4 should be installed.
 
 2. Change directory to the root folder of the application.
 
@@ -203,7 +203,7 @@ http://localhost:8080
 
 ## Technologies
 
-1. Java 8
+1. Java 17
 
 2. Spring boot with Spring data JPA and Hibernate.
 
